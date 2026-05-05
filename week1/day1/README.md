@@ -1,1 +1,28 @@
-day1 work
+**SQL Practice – Week 1 Day 1**
+
+**Files**
+
+- "data_creation.sql" → Creates tables and inserts data
+- "queries.sql" → Contains all 65 SQL queries
+- "output/" → Screenshots of query results
+- "output.txt" → Text outputs
+
+**How to Run**
+
+1. Open DB Fiddle (or any SQL tool)
+2. Run "data_creation.sql"
+3. Execute queries from "queries.sql"
+
+**Topics Covered**
+
+- Basic Queries
+- String Matching
+- Date Functions
+- Aggregations
+- Group By & Having
+- Order By
+- Joins
+- Subqueries
+
+**Learning Outcome**
+Gain hands-on experience in writing SQL queries using joins, aggregations, and subqueries to analyze relational data effectively.
